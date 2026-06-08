@@ -52,13 +52,13 @@ React Dashboard
 
 ![Dashboard](documentation/screenshots/dashboard.png)
 
-### AI Alert Detection
+### Architecture
 
-![Alert](documentation/screenshots/alert-detection.png)
+![Alert](documentation/screenshots/arch.png)
 
-### File Monitoring
+### Landing Page
 
-![Monitoring](documentation/screenshots/file-monitoring.png)
+![Monitoring](documentation/screenshots/Screenshot 2026-06-08 153554.png)
 
 ### Swagger API
 
