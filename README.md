@@ -109,6 +109,6 @@ AI-Ransomware-Detection-System
 
 Anuj Bendre
 
-Computer Engineering Student
-Cybersecurity Enthusiast
-Python Full Stack Developer
+- Computer Engineering Student
+- Cybersecurity Enthusiast
+- Python Full Stack Developer
