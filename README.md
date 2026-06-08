@@ -58,11 +58,11 @@ React Dashboard
 
 ### Landing Page
 
-![Monitoring](documentation/screenshots/Screenshot 2026-06-08 153554.png)
+![Monitoring](documentation/screenshots/land.png)
 
 ### Swagger API
 
-![API](documentation/screenshots/swagger-api.png)
+![API](documentation/screenshots/API.png)
 
 ---
 
