@@ -58,7 +58,7 @@ React Dashboard
 
 ### Landing Page
 
-![land](documentation/screenshots/land.png)
+![Landing Page](documentation/screenshots/land.png)
 
 ### Swagger API
 
