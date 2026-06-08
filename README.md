@@ -1,38 +1,117 @@
-# AI-Based Ransomware Detection System
+# 🛡️ AI-Based Ransomware Detection System
 
-## Features
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-red)
 
-- Real-time File Monitoring
-- AI-Based Ransomware Detection
+## 📌 Overview
+
+AI-Based Ransomware Detection System is a cybersecurity solution that monitors file activities in real time and uses Machine Learning to detect suspicious ransomware-like behavior.
+
+The system generates alerts and visualizes security events through an interactive React dashboard.
+
+---
+
+## 🚀 Features
+
+- Real-Time File Monitoring
+- AI-Based Threat Detection
+- Machine Learning Prediction
 - FastAPI Backend
 - React Dashboard
 - Event Analytics
 - Threat Level Monitoring
-- Live Security Logs
-- CSV-Based Storage
+- Security Alerts
+- CSV-Based Data Storage
 
-## Technologies Used
+---
+
+## 🏗️ System Architecture
+
+User Activity
+↓
+File Monitor (Watchdog)
+↓
+Feature Collector
+↓
+Machine Learning Model
+↓
+Threat Detection
+↓
+Alert Generation
+↓
+React Dashboard
+
+---
+
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](documentation/screenshots/dashboard.png)
+
+### AI Alert Detection
+
+![Alert](documentation/screenshots/alert-detection.png)
+
+### File Monitoring
+
+![Monitoring](documentation/screenshots/file-monitoring.png)
+
+### Swagger API
+
+![API](documentation/screenshots/swagger-api.png)
+
+---
+
+## 🛠️ Technologies Used
 
 ### Backend
+
 - Python
 - FastAPI
-- Watchdog
-- Scikit-Learn
 - Pandas
+- Scikit-Learn
+- Watchdog
 
 ### Frontend
+
 - React
 - Vite
-- Recharts
+- Axios
 - Framer Motion
+- Recharts
 
-## Project Structure
+---
+
+## 📂 Project Structure
 
 AI-Ransomware-Detection-System
+│
 ├── backend
 ├── frontend
-├── README.md
+├── documentation
+└── README.md
 
-## Author
+---
+
+## 🔮 Future Enhancements
+
+- Database Integration
+- Email Alerts
+- SMS Notifications
+- User Authentication
+- Advanced ML Models
+- Cloud Deployment
+
+---
+
+## 👨‍💻 Author
 
 Anuj Bendre
+
+Computer Engineering Student
+Cybersecurity Enthusiast
+Python Full Stack Developer
