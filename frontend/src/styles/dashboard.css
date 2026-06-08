@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    overflow:hidden;
+    background:#0f172a;
+    color:white;
+    font-family:Segoe UI,sans-serif;
+}
+
+#root{
+    height:100vh;
+}
+
+.dashboard{
+    height:100vh;
+    padding:15px;
+    box-sizing:border-box;
+
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+}
+
+.title{
+    text-align:center;
+    margin:0;
+    font-size:32px;
+}

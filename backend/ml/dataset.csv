@@ -1,0 +1,11 @@
+modified,renamed,deleted,created,label
+50,20,10,0,Ransomware
+60,25,15,0,Ransomware
+70,30,20,0,Ransomware
+80,35,25,0,Ransomware
+90,40,30,0,Ransomware
+5,1,0,10,Normal
+10,2,1,15,Normal
+15,3,0,20,Normal
+20,2,1,25,Normal
+25,4,0,30,Normal

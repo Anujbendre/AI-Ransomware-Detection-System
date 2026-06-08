@@ -1,0 +1,7 @@
+python -m monitoring.file_monitor
+
+
+uvicorn main:app --reload
+
+
+npm run dev

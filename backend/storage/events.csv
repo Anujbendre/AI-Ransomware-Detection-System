@@ -1,0 +1,7 @@
+timestamp,file_name,event_type
+
+2026-06-08 14:44:03,test1.txt,CREATED
+2026-06-08 14:44:12,test2.txt,CREATED
+2026-06-08 14:44:16,test2.txt,MODIFIED
+2026-06-08 14:44:27,test3.txt,CREATED
+2026-06-08 14:44:40,demo.txt,RENAMED

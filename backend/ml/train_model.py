@@ -1,0 +1,25 @@
+import pandas as pd
+from sklearn.tree import DecisionTreeClassifier
+import joblib
+
+data = pd.read_csv("dataset.csv")
+
+X = data[
+    ["modified",
+     "renamed",
+     "deleted",
+     "created"]
+]
+
+y = data["label"]
+
+model = DecisionTreeClassifier()
+
+model.fit(X, y)
+
+joblib.dump(
+    model,
+    "ransomware_model.pkl"
+)
+
+print("Model trained successfully!")
